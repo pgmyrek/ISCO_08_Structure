@@ -1,0 +1,2664 @@
+{
+  "name": "ISCO-08",
+  "children": [
+    {
+      "name": "0 - Armed forces occupations",
+      "children": [
+        {
+          "name": "01 - Commissioned armed forces officers",
+          "children": [
+            {
+              "name": "011 - Commissioned armed forces officers",
+              "children": [
+                {
+                  "name": "0110 - Commissioned armed forces officers",
+                  "risk": {}
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "02 - Non-commissioned armed forces officers",
+          "children": [
+            {
+              "name": "021 - Non-commissioned armed forces officers",
+              "children": [
+                {
+                  "name": "0210 - Non-commissioned armed forces officers",
+                  "risk": {}
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "03 - Armed forces occupations, other ranks",
+          "children": [
+            {
+              "name": "031 - Armed forces occupations, other ranks",
+              "children": [
+                {
+                  "name": "0310 - Armed forces occupations, other ranks",
+                  "risk": {}
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "1 - Managers",
+      "children": [
+        {
+          "name": "11 - Chief executives, senior officials and legislators",
+          "children": [
+            {
+              "name": "111 - Legislators and senior officials",
+              "children": [
+                {
+                  "name": "1111 - Legislators",
+                  "risk": {}
+                },
+                {
+                  "name": "1112 - Senior government officials",
+                  "risk": {}
+                },
+                {
+                  "name": "1113 - Traditional chiefs and heads of village",
+                  "risk": {}
+                },
+                {
+                  "name": "1114 - Senior officials of special-interest organizations",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "112 - Managing directors and chief executives",
+              "children": [
+                {
+                  "name": "1120 - Managing directors and chief executives",
+                  "risk": {}
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "12 - Administrative and commercial managers",
+          "children": [
+            {
+              "name": "121 - Business services and administration managers",
+              "children": [
+                {
+                  "name": "1211 - Finance managers",
+                  "risk": {}
+                },
+                {
+                  "name": "1212 - Human resource managers",
+                  "risk": {}
+                },
+                {
+                  "name": "1213 - Policy and planning managers",
+                  "risk": {}
+                },
+                {
+                  "name": "1219 - Business services and administration managers not elsewhere classified",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "122 - Sales, marketing and development managers",
+              "children": [
+                {
+                  "name": "1221 - Sales and marketing managers",
+                  "risk": {}
+                },
+                {
+                  "name": "1222 - Advertising and public relations managers",
+                  "risk": {}
+                },
+                {
+                  "name": "1223 - Research and development managers",
+                  "risk": {}
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "13 - Production and specialised services managers",
+          "children": [
+            {
+              "name": "131 - Production managers in agriculture, forestry and fisheries",
+              "children": [
+                {
+                  "name": "1311 - Agricultural and forestry production managers",
+                  "risk": {}
+                },
+                {
+                  "name": "1312 - Aquaculture and fisheries production managers",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "132 - Manufacturing, mining, construction, and distribution managers",
+              "children": [
+                {
+                  "name": "1321 - Manufacturing managers",
+                  "risk": {}
+                },
+                {
+                  "name": "1322 - Mining managers",
+                  "risk": {}
+                },
+                {
+                  "name": "1323 - Construction managers",
+                  "risk": {}
+                },
+                {
+                  "name": "1324 - Supply, distribution and related managers",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "133 - Information and communications technology service managers",
+              "children": [
+                {
+                  "name": "1330 - Information and communications technology service managers",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "134 - Professional services managers",
+              "children": [
+                {
+                  "name": "1341 - Child care services managers",
+                  "risk": {}
+                },
+                {
+                  "name": "1342 - Health services managers",
+                  "risk": {}
+                },
+                {
+                  "name": "1343 - Aged care services managers",
+                  "risk": {}
+                },
+                {
+                  "name": "1344 - Social welfare managers",
+                  "risk": {}
+                },
+                {
+                  "name": "1345 - Education managers",
+                  "risk": {}
+                },
+                {
+                  "name": "1346 - Financial and insurance services branch managers",
+                  "risk": {}
+                },
+                {
+                  "name": "1349 - Professional services managers not elsewhere classified",
+                  "risk": {}
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "14 - Hospitality, retail and other services managers",
+          "children": [
+            {
+              "name": "141 - Hotel and restaurant managers",
+              "children": [
+                {
+                  "name": "1411 - Hotel managers",
+                  "risk": {}
+                },
+                {
+                  "name": "1412 - Restaurant managers",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "142 - Retail and wholesale trade managers",
+              "children": [
+                {
+                  "name": "1420 - Retail and wholesale trade managers",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "143 - Other services managers",
+              "children": [
+                {
+                  "name": "1431 - Sports, recreation and cultural centre managers",
+                  "risk": {}
+                },
+                {
+                  "name": "1439 - Services managers not elsewhere classified",
+                  "risk": {}
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "2 - Professionals",
+      "children": [
+        {
+          "name": "21 - Science and engineering professionals",
+          "children": [
+            {
+              "name": "211 - Physical and earth science professionals",
+              "children": [
+                {
+                  "name": "2111 - Physicists and astronomers",
+                  "risk": {}
+                },
+                {
+                  "name": "2112 - Meteorologists",
+                  "risk": {}
+                },
+                {
+                  "name": "2113 - Chemists",
+                  "risk": {}
+                },
+                {
+                  "name": "2114 - Geologists and geophysicists",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "212 - Mathematicians, actuaries and statisticians",
+              "children": [
+                {
+                  "name": "2120 - Mathematicians, actuaries and statisticians",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "213 - Life science professionals",
+              "children": [
+                {
+                  "name": "2131 - Biologists, botanists, zoologists and related professionals",
+                  "risk": {}
+                },
+                {
+                  "name": "2132 - Farming, forestry and fisheries advisers",
+                  "risk": {}
+                },
+                {
+                  "name": "2133 - Environmental protection professionals",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "214 - Engineering professionals (excluding electrotechnology)",
+              "children": [
+                {
+                  "name": "2141 - Industrial and production engineers",
+                  "risk": {}
+                },
+                {
+                  "name": "2142 - Civil engineers",
+                  "risk": {}
+                },
+                {
+                  "name": "2143 - Environmental engineers",
+                  "risk": {}
+                },
+                {
+                  "name": "2144 - Mechanical engineers",
+                  "risk": {}
+                },
+                {
+                  "name": "2145 - Chemical engineers",
+                  "risk": {}
+                },
+                {
+                  "name": "2146 - Mining engineers, metallurgists and related professionals",
+                  "risk": {}
+                },
+                {
+                  "name": "2149 - Engineering professionals not elsewhere classified",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "215 - Electrotechnology engineers",
+              "children": [
+                {
+                  "name": "2151 - Electrical engineers",
+                  "risk": {}
+                },
+                {
+                  "name": "2152 - Electronics engineers",
+                  "risk": {}
+                },
+                {
+                  "name": "2153 - Telecommunications engineers",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "216 - Architects, planners, surveyors and designers",
+              "children": [
+                {
+                  "name": "2161 - Building architects",
+                  "risk": {}
+                },
+                {
+                  "name": "2162 - Landscape architects",
+                  "risk": {}
+                },
+                {
+                  "name": "2163 - Product and garment designers",
+                  "risk": {}
+                },
+                {
+                  "name": "2164 - Town and traffic planners",
+                  "risk": {}
+                },
+                {
+                  "name": "2165 - Cartographers and surveyors",
+                  "risk": {}
+                },
+                {
+                  "name": "2166 - Graphic and multimedia designers",
+                  "risk": {}
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "22 - Health professionals",
+          "children": [
+            {
+              "name": "221 - Medical doctors",
+              "children": [
+                {
+                  "name": "2211 - Generalist medical practitioners",
+                  "risk": {}
+                },
+                {
+                  "name": "2212 - Specialist medical practitioners",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "222 - Nursing and midwifery professionals",
+              "children": [
+                {
+                  "name": "2221 - Nursing professionals",
+                  "risk": {}
+                },
+                {
+                  "name": "2222 - Midwifery professionals",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "223 - Traditional and complementary medicine professionals",
+              "children": [
+                {
+                  "name": "2230 - Traditional and complementary medicine professionals",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "224 - Paramedical practitioners",
+              "children": [
+                {
+                  "name": "2240 - Paramedical practitioners",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "225 - Veterinarians",
+              "children": [
+                {
+                  "name": "2250 - Veterinarians",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "226 - Other health professionals",
+              "children": [
+                {
+                  "name": "2261 - Dentists",
+                  "risk": {}
+                },
+                {
+                  "name": "2262 - Pharmacists",
+                  "risk": {}
+                },
+                {
+                  "name": "2263 - Environmental and occupational health and hygiene professionals",
+                  "risk": {}
+                },
+                {
+                  "name": "2264 - Physiotherapists",
+                  "risk": {}
+                },
+                {
+                  "name": "2265 - Dieticians and nutritionists",
+                  "risk": {}
+                },
+                {
+                  "name": "2266 - Audiologists and speech therapists",
+                  "risk": {}
+                },
+                {
+                  "name": "2267 - Optometrists and ophthalmic opticians",
+                  "risk": {}
+                },
+                {
+                  "name": "2269 - Health professionals not elsewhere classified",
+                  "risk": {}
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "23 - Teaching professionals",
+          "children": [
+            {
+              "name": "231 - University and higher education teachers",
+              "children": [
+                {
+                  "name": "2310 - University and higher education teachers",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "232 - Vocational education teachers",
+              "children": [
+                {
+                  "name": "2320 - Vocational education teachers",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "233 - Secondary education teachers",
+              "children": [
+                {
+                  "name": "2330 - Secondary education teachers",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "234 - Primary school and early childhood teachers",
+              "children": [
+                {
+                  "name": "2341 - Primary school teachers",
+                  "risk": {}
+                },
+                {
+                  "name": "2342 - Early childhood educators",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "235 - Other teaching professionals",
+              "children": [
+                {
+                  "name": "2351 - Education methods specialists",
+                  "risk": {}
+                },
+                {
+                  "name": "2352 - Special needs teachers",
+                  "risk": {}
+                },
+                {
+                  "name": "2353 - Other language teachers",
+                  "risk": {}
+                },
+                {
+                  "name": "2354 - Other music teachers",
+                  "risk": {}
+                },
+                {
+                  "name": "2355 - Other arts teachers",
+                  "risk": {}
+                },
+                {
+                  "name": "2356 - Information technology trainers",
+                  "risk": {}
+                },
+                {
+                  "name": "2359 - Teaching professionals not elsewhere classified",
+                  "risk": {}
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "24 - Business and administration professionals",
+          "children": [
+            {
+              "name": "241 - Finance professionals",
+              "children": [
+                {
+                  "name": "2411 - Accountants",
+                  "risk": {}
+                },
+                {
+                  "name": "2412 - Financial and investment advisers",
+                  "risk": {}
+                },
+                {
+                  "name": "2413 - Financial analysts",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "242 - Administration professionals",
+              "children": [
+                {
+                  "name": "2421 - Management and organization analysts",
+                  "risk": {}
+                },
+                {
+                  "name": "2422 - Policy administration professionals",
+                  "risk": {}
+                },
+                {
+                  "name": "2423 - Personnel and careers professionals",
+                  "risk": {}
+                },
+                {
+                  "name": "2424 - Training and staff development professionals",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "243 - Sales, marketing and public relations professionals",
+              "children": [
+                {
+                  "name": "2431 - Advertising and marketing professionals",
+                  "risk": {}
+                },
+                {
+                  "name": "2432 - Public relations professionals",
+                  "risk": {}
+                },
+                {
+                  "name": "2433 - Technical and medical sales professionals (excluding ICT)",
+                  "risk": {}
+                },
+                {
+                  "name": "2434 - Information and communications technology sales professionals",
+                  "risk": {}
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "25 - Information and communications technology professionals",
+          "children": [
+            {
+              "name": "251 - Software and applications developers and analysts",
+              "children": [
+                {
+                  "name": "2511 - Systems analysts",
+                  "risk": {}
+                },
+                {
+                  "name": "2512 - Software developers",
+                  "risk": {}
+                },
+                {
+                  "name": "2513 - Web and multimedia developers",
+                  "risk": {}
+                },
+                {
+                  "name": "2514 - Applications programmers",
+                  "risk": {}
+                },
+                {
+                  "name": "2519 - Software and applications developers and analysts not elsewhere classified",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "252 - Database and network professionals",
+              "children": [
+                {
+                  "name": "2521 - Database designers and administrators",
+                  "risk": {}
+                },
+                {
+                  "name": "2522 - Systems administrators",
+                  "risk": {}
+                },
+                {
+                  "name": "2523 - Computer network professionals",
+                  "risk": {}
+                },
+                {
+                  "name": "2529 - Database and network professionals not elsewhere classified",
+                  "risk": {}
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "26 - Legal, social and cultural professionals",
+          "children": [
+            {
+              "name": "261 - Legal professionals",
+              "children": [
+                {
+                  "name": "2611 - Lawyers",
+                  "risk": {}
+                },
+                {
+                  "name": "2612 - Judges",
+                  "risk": {}
+                },
+                {
+                  "name": "2619 - Legal professionals not elsewhere classified",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "262 - Librarians, archivists and curators",
+              "children": [
+                {
+                  "name": "2621 - Archivists and curators",
+                  "risk": {}
+                },
+                {
+                  "name": "2622 - Librarians and related information professionals",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "263 - Social and religious professionals",
+              "children": [
+                {
+                  "name": "2631 - Economists",
+                  "risk": {}
+                },
+                {
+                  "name": "2632 - Sociologists, anthropologists and related professionals",
+                  "risk": {}
+                },
+                {
+                  "name": "2633 - Philosophers, historians and political scientists",
+                  "risk": {}
+                },
+                {
+                  "name": "2634 - Psychologists",
+                  "risk": {}
+                },
+                {
+                  "name": "2635 - Social work and counselling professionals",
+                  "risk": {}
+                },
+                {
+                  "name": "2636 - Religious professionals",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "264 - Authors, journalists and linguists",
+              "children": [
+                {
+                  "name": "2641 - Authors and related writers",
+                  "risk": {}
+                },
+                {
+                  "name": "2642 - Journalists",
+                  "risk": {}
+                },
+                {
+                  "name": "2643 - Translators, interpreters and other linguists",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "265 - Creative and performing artists",
+              "children": [
+                {
+                  "name": "2651 - Visual artists",
+                  "risk": {}
+                },
+                {
+                  "name": "2652 - Musicians, singers and composers",
+                  "risk": {}
+                },
+                {
+                  "name": "2653 - Dancers and choreographers",
+                  "risk": {}
+                },
+                {
+                  "name": "2654 - Film, stage and related directors and producers",
+                  "risk": {}
+                },
+                {
+                  "name": "2655 - Actors",
+                  "risk": {}
+                },
+                {
+                  "name": "2656 - Announcers on radio, television and other media",
+                  "risk": {}
+                },
+                {
+                  "name": "2659 - Creative and performing artists not elsewhere classified",
+                  "risk": {}
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "3 - Technicians and associate professionals",
+      "children": [
+        {
+          "name": "31 - Science and engineering associate professionals",
+          "children": [
+            {
+              "name": "311 - Physical and engineering science technicians",
+              "children": [
+                {
+                  "name": "3111 - Chemical and physical science technicians",
+                  "risk": {}
+                },
+                {
+                  "name": "3112 - Civil engineering technicians",
+                  "risk": {}
+                },
+                {
+                  "name": "3113 - Electrical engineering technicians",
+                  "risk": {}
+                },
+                {
+                  "name": "3114 - Electronics engineering technicians",
+                  "risk": {}
+                },
+                {
+                  "name": "3115 - Mechanical engineering technicians",
+                  "risk": {}
+                },
+                {
+                  "name": "3116 - Chemical engineering technicians",
+                  "risk": {}
+                },
+                {
+                  "name": "3117 - Mining and metallurgical technicians",
+                  "risk": {}
+                },
+                {
+                  "name": "3118 - Draughtspersons",
+                  "risk": {}
+                },
+                {
+                  "name": "3119 - Physical and engineering science technicians not elsewhere classified",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "312 - Mining, manufacturing and construction supervisors",
+              "children": [
+                {
+                  "name": "3121 - Mining supervisors",
+                  "risk": {}
+                },
+                {
+                  "name": "3122 - Manufacturing supervisors",
+                  "risk": {}
+                },
+                {
+                  "name": "3123 - Construction supervisors",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "313 - Process control technicians",
+              "children": [
+                {
+                  "name": "3131 - Power production plant operators",
+                  "risk": {}
+                },
+                {
+                  "name": "3132 - Incinerator and water treatment plant operators",
+                  "risk": {}
+                },
+                {
+                  "name": "3133 - Chemical processing plant controllers",
+                  "risk": {}
+                },
+                {
+                  "name": "3134 - Petroleum and natural gas refining plant operators",
+                  "risk": {}
+                },
+                {
+                  "name": "3135 - Metal production process controllers",
+                  "risk": {}
+                },
+                {
+                  "name": "3139 - Process control technicians not elsewhere classified",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "314 - Life science technicians and related associate professionals",
+              "children": [
+                {
+                  "name": "3141 - Life science technicians (excluding medical)",
+                  "risk": {}
+                },
+                {
+                  "name": "3142 - Agricultural technicians",
+                  "risk": {}
+                },
+                {
+                  "name": "3143 - Forestry technicians",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "315 - Ship and aircraft controllers and technicians",
+              "children": [
+                {
+                  "name": "3151 - Ships' engineers",
+                  "risk": {}
+                },
+                {
+                  "name": "3152 - Ships' deck officers and pilots",
+                  "risk": {}
+                },
+                {
+                  "name": "3153 - Aircraft pilots and related associate professionals",
+                  "risk": {}
+                },
+                {
+                  "name": "3154 - Air traffic controllers",
+                  "risk": {}
+                },
+                {
+                  "name": "3155 - Air traffic safety electronics technicians",
+                  "risk": {}
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "32 - Health associate professionals",
+          "children": [
+            {
+              "name": "321 - Medical and pharmaceutical technicians",
+              "children": [
+                {
+                  "name": "3211 - Medical imaging and therapeutic equipment technicians",
+                  "risk": {}
+                },
+                {
+                  "name": "3212 - Medical and pathology laboratory technicians",
+                  "risk": {}
+                },
+                {
+                  "name": "3213 - Pharmaceutical technicians and assistants",
+                  "risk": {}
+                },
+                {
+                  "name": "3214 - Medical and dental prosthetic technicians",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "322 - Nursing and midwifery associate professionals",
+              "children": [
+                {
+                  "name": "3221 - Nursing associate professionals",
+                  "risk": {}
+                },
+                {
+                  "name": "3222 - Midwifery associate professionals",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "323 - Traditional and complementary medicine associate professionals",
+              "children": [
+                {
+                  "name": "3230 - Traditional and complementary medicine associate professionals",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "324 - Veterinary technicians and assistants",
+              "children": [
+                {
+                  "name": "3240 - Veterinary technicians and assistants",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "325 - Other health associate professionals",
+              "children": [
+                {
+                  "name": "3251 - Dental assistants and therapists",
+                  "risk": {}
+                },
+                {
+                  "name": "3252 - Medical records and health information technicians",
+                  "risk": {}
+                },
+                {
+                  "name": "3253 - Community health workers",
+                  "risk": {}
+                },
+                {
+                  "name": "3254 - Dispensing opticians",
+                  "risk": {}
+                },
+                {
+                  "name": "3255 - Physiotherapy technicians and assistants",
+                  "risk": {}
+                },
+                {
+                  "name": "3256 - Medical assistants",
+                  "risk": {}
+                },
+                {
+                  "name": "3257 - Environmental and occupational health inspectors and associates",
+                  "risk": {}
+                },
+                {
+                  "name": "3258 - Ambulance workers",
+                  "risk": {}
+                },
+                {
+                  "name": "3259 - Health associate professionals not elsewhere classified",
+                  "risk": {}
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "33 - Business and administration associate professionals",
+          "children": [
+            {
+              "name": "331 - Financial and mathematical associate professionals",
+              "children": [
+                {
+                  "name": "3311 - Securities and finance dealers and brokers",
+                  "risk": {}
+                },
+                {
+                  "name": "3312 - Credit and loans officers",
+                  "risk": {}
+                },
+                {
+                  "name": "3313 - Accounting associate professionals",
+                  "risk": {}
+                },
+                {
+                  "name": "3314 - Statistical, mathematical and related associate professionals",
+                  "risk": {}
+                },
+                {
+                  "name": "3315 - Valuers and loss assessors",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "332 - Sales and purchasing agents and brokers",
+              "children": [
+                {
+                  "name": "3321 - Insurance representatives",
+                  "risk": {}
+                },
+                {
+                  "name": "3322 - Commercial sales representatives",
+                  "risk": {}
+                },
+                {
+                  "name": "3323 - Buyers",
+                  "risk": {}
+                },
+                {
+                  "name": "3324 - Trade brokers",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "333 - Business services agents",
+              "children": [
+                {
+                  "name": "3331 - Clearing and forwarding agents",
+                  "risk": {}
+                },
+                {
+                  "name": "3332 - Conference and event planners",
+                  "risk": {}
+                },
+                {
+                  "name": "3333 - Employment agents and contractors",
+                  "risk": {}
+                },
+                {
+                  "name": "3334 - Real estate agents and property managers",
+                  "risk": {}
+                },
+                {
+                  "name": "3339 - Business services agents not elsewhere classified",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "334 - Administrative and specialised secretaries",
+              "children": [
+                {
+                  "name": "3341 - Office supervisors",
+                  "risk": {}
+                },
+                {
+                  "name": "3342 - Legal secretaries",
+                  "risk": {}
+                },
+                {
+                  "name": "3343 - Administrative and executive secretaries",
+                  "risk": {}
+                },
+                {
+                  "name": "3344 - Medical secretaries",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "335 - Regulatory government associate professionals",
+              "children": [
+                {
+                  "name": "3351 - Customs and border inspectors",
+                  "risk": {}
+                },
+                {
+                  "name": "3352 - Government tax and excise officials",
+                  "risk": {}
+                },
+                {
+                  "name": "3353 - Government social benefits officials",
+                  "risk": {}
+                },
+                {
+                  "name": "3354 - Government licensing officials",
+                  "risk": {}
+                },
+                {
+                  "name": "3355 - Police inspectors and detectives",
+                  "risk": {}
+                },
+                {
+                  "name": "3359 - Regulatory government associate professionals not elsewhere classified",
+                  "risk": {}
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "34 - Legal, social, cultural and related associate professionals",
+          "children": [
+            {
+              "name": "341 - Legal, social and religious associate professionals",
+              "children": [
+                {
+                  "name": "3411 - Legal and related associate professionals",
+                  "risk": {}
+                },
+                {
+                  "name": "3412 - Social work associate professionals",
+                  "risk": {}
+                },
+                {
+                  "name": "3413 - Religious associate professionals",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "342 - Sports and fitness workers",
+              "children": [
+                {
+                  "name": "3421 - Athletes and sports players",
+                  "risk": {}
+                },
+                {
+                  "name": "3422 - Sports coaches, instructors and officials",
+                  "risk": {}
+                },
+                {
+                  "name": "3423 - Fitness and recreation instructors and program leaders",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "343 - Artistic, cultural and culinary associate professionals",
+              "children": [
+                {
+                  "name": "3431 - Photographers",
+                  "risk": {}
+                },
+                {
+                  "name": "3432 - Interior designers and decorators",
+                  "risk": {}
+                },
+                {
+                  "name": "3433 - Gallery, museum and library technicians",
+                  "risk": {}
+                },
+                {
+                  "name": "3434 - Chefs",
+                  "risk": {}
+                },
+                {
+                  "name": "3435 - Other artistic and cultural associate professionals",
+                  "risk": {}
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "35 - Information and communications technicians",
+          "children": [
+            {
+              "name": "351 - Information and communications technology operations and user support technicians",
+              "children": [
+                {
+                  "name": "3511 - Information and communications technology operations technicians",
+                  "risk": {}
+                },
+                {
+                  "name": "3512 - Information and communications technology user support technicians",
+                  "risk": {}
+                },
+                {
+                  "name": "3513 - Computer network and systems technicians",
+                  "risk": {}
+                },
+                {
+                  "name": "3514 - Web technicians",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "352 - Telecommunications and broadcasting technicians",
+              "children": [
+                {
+                  "name": "3521 - Broadcasting and audio-visual technicians",
+                  "risk": {}
+                },
+                {
+                  "name": "3522 - Telecommunications engineering technicians",
+                  "risk": {}
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "4 - Clerical support workers",
+      "children": [
+        {
+          "name": "41 - General and keyboard clerks",
+          "children": [
+            {
+              "name": "411 - General office clerks",
+              "children": [
+                {
+                  "name": "4110 - General office clerks",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "412 - Secretaries (general)",
+              "children": [
+                {
+                  "name": "4120 - Secretaries (general)",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "413 - Keyboard operators",
+              "children": [
+                {
+                  "name": "4131 - Typists and word processing operators",
+                  "risk": {}
+                },
+                {
+                  "name": "4132 - Data entry clerks",
+                  "risk": {}
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "42 - Customer services clerks",
+          "children": [
+            {
+              "name": "421 - Tellers, money collectors and related clerks",
+              "children": [
+                {
+                  "name": "4211 - Bank tellers and related clerks",
+                  "risk": {}
+                },
+                {
+                  "name": "4212 - Bookmakers, croupiers and related gaming workers",
+                  "risk": {}
+                },
+                {
+                  "name": "4213 - Pawnbrokers and money-lenders",
+                  "risk": {}
+                },
+                {
+                  "name": "4214 - Debt-collectors and related workers",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "422 - Client information workers",
+              "children": [
+                {
+                  "name": "4221 - Travel consultants and clerks",
+                  "risk": {}
+                },
+                {
+                  "name": "4222 - Contact centre information clerks",
+                  "risk": {}
+                },
+                {
+                  "name": "4223 - Telephone switchboard operators",
+                  "risk": {}
+                },
+                {
+                  "name": "4224 - Hotel receptionists",
+                  "risk": {}
+                },
+                {
+                  "name": "4225 - Enquiry clerks",
+                  "risk": {}
+                },
+                {
+                  "name": "4226 - Receptionists (general)",
+                  "risk": {}
+                },
+                {
+                  "name": "4227 - Survey and market research interviewers",
+                  "risk": {}
+                },
+                {
+                  "name": "4229 - Client information workers not elsewhere classified",
+                  "risk": {}
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "43 - Numerical and material recording clerks",
+          "children": [
+            {
+              "name": "431 - Numerical clerks",
+              "children": [
+                {
+                  "name": "4311 - Accounting and bookkeeping clerks",
+                  "risk": {}
+                },
+                {
+                  "name": "4312 - Statistical, finance and insurance clerks",
+                  "risk": {}
+                },
+                {
+                  "name": "4313 - Payroll clerks",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "432 - Material-recording and transport clerks",
+              "children": [
+                {
+                  "name": "4321 - Stock clerks",
+                  "risk": {}
+                },
+                {
+                  "name": "4322 - Production clerks",
+                  "risk": {}
+                },
+                {
+                  "name": "4323 - Transport clerks",
+                  "risk": {}
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "44 - Other clerical support workers",
+          "children": [
+            {
+              "name": "441 - Other clerical support workers",
+              "children": [
+                {
+                  "name": "4411 - Library clerks",
+                  "risk": {}
+                },
+                {
+                  "name": "4412 - Mail carriers and sorting clerks",
+                  "risk": {}
+                },
+                {
+                  "name": "4413 - Coding, proof-reading and related clerks",
+                  "risk": {}
+                },
+                {
+                  "name": "4414 - Scribes and related workers",
+                  "risk": {}
+                },
+                {
+                  "name": "4415 - Filing and copying clerks",
+                  "risk": {}
+                },
+                {
+                  "name": "4416 - Personnel clerks",
+                  "risk": {}
+                },
+                {
+                  "name": "4419 - Clerical support workers not elsewhere classified",
+                  "risk": {}
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "5 - Service and sales workers",
+      "children": [
+        {
+          "name": "51 - Personal service workers",
+          "children": [
+            {
+              "name": "511 - Travel attendants, conductors and guides",
+              "children": [
+                {
+                  "name": "5111 - Travel attendants and travel stewards",
+                  "risk": {}
+                },
+                {
+                  "name": "5112 - Transport conductors",
+                  "risk": {}
+                },
+                {
+                  "name": "5113 - Travel guides",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "512 - Cooks",
+              "children": [
+                {
+                  "name": "5120 - Cooks",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "513 - Waiters and bartenders",
+              "children": [
+                {
+                  "name": "5131 - Waiters",
+                  "risk": {}
+                },
+                {
+                  "name": "5132 - Bartenders",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "514 - Hairdressers, beauticians and related workers",
+              "children": [
+                {
+                  "name": "5141 - Hairdressers",
+                  "risk": {}
+                },
+                {
+                  "name": "5142 - Beauticians and related workers",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "515 - Building and housekeeping supervisors",
+              "children": [
+                {
+                  "name": "5151 - Cleaning and housekeeping supervisors in offices, hotels and other establishments",
+                  "risk": {}
+                },
+                {
+                  "name": "5152 - Domestic housekeepers",
+                  "risk": {}
+                },
+                {
+                  "name": "5153 - Building caretakers",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "516 - Other personal services workers",
+              "children": [
+                {
+                  "name": "5161 - Astrologers, fortune-tellers and related workers",
+                  "risk": {}
+                },
+                {
+                  "name": "5162 - Companions and valets",
+                  "risk": {}
+                },
+                {
+                  "name": "5163 - Undertakers and embalmers",
+                  "risk": {}
+                },
+                {
+                  "name": "5164 - Pet groomers and animal care workers",
+                  "risk": {}
+                },
+                {
+                  "name": "5165 - Driving instructors",
+                  "risk": {}
+                },
+                {
+                  "name": "5169 - Personal services workers not elsewhere classified",
+                  "risk": {}
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "52 - Sales workers",
+          "children": [
+            {
+              "name": "521 - Street and market salespersons",
+              "children": [
+                {
+                  "name": "5211 - Stall and market salespersons",
+                  "risk": {}
+                },
+                {
+                  "name": "5212 - Street food salespersons",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "522 - Shop salespersons",
+              "children": [
+                {
+                  "name": "5221 - Shop keepers",
+                  "risk": {}
+                },
+                {
+                  "name": "5222 - Shop supervisors",
+                  "risk": {}
+                },
+                {
+                  "name": "5223 - Shop sales assistants",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "523 - Cashiers and ticket clerks",
+              "children": [
+                {
+                  "name": "5230 - Cashiers and ticket clerks",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "524 - Other sales workers",
+              "children": [
+                {
+                  "name": "5241 - Fashion and other models",
+                  "risk": {}
+                },
+                {
+                  "name": "5242 - Sales demonstrators",
+                  "risk": {}
+                },
+                {
+                  "name": "5243 - Door to door salespersons",
+                  "risk": {}
+                },
+                {
+                  "name": "5244 - Contact centre salespersons",
+                  "risk": {}
+                },
+                {
+                  "name": "5245 - Service station attendants",
+                  "risk": {}
+                },
+                {
+                  "name": "5246 - Food service counter attendants",
+                  "risk": {}
+                },
+                {
+                  "name": "5249 - Sales workers not elsewhere classified",
+                  "risk": {}
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "53 - Personal care workers",
+          "children": [
+            {
+              "name": "531 - Child care workers and teachers' aides",
+              "children": [
+                {
+                  "name": "5311 - Child care workers",
+                  "risk": {}
+                },
+                {
+                  "name": "5312 - Teachers' aides",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "532 - Personal care workers in health services",
+              "children": [
+                {
+                  "name": "5321 - Health care assistants",
+                  "risk": {}
+                },
+                {
+                  "name": "5322 - Home-based personal care workers",
+                  "risk": {}
+                },
+                {
+                  "name": "5329 - Personal care workers in health services not elsewhere classified",
+                  "risk": {}
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "54 - Protective services workers",
+          "children": [
+            {
+              "name": "541 - Protective services workers",
+              "children": [
+                {
+                  "name": "5411 - Fire-fighters",
+                  "risk": {}
+                },
+                {
+                  "name": "5412 - Police officers",
+                  "risk": {}
+                },
+                {
+                  "name": "5413 - Prison guards",
+                  "risk": {}
+                },
+                {
+                  "name": "5414 - Security guards",
+                  "risk": {}
+                },
+                {
+                  "name": "5419 - Protective services workers not elsewhere classified",
+                  "risk": {}
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "6 - Skilled agricultural, forestry and fishery workers",
+      "children": [
+        {
+          "name": "61 - Market-oriented skilled agricultural workers",
+          "children": [
+            {
+              "name": "611 - Market gardeners and crop growers",
+              "children": [
+                {
+                  "name": "6111 - Field crop and vegetable growers",
+                  "risk": {}
+                },
+                {
+                  "name": "6112 - Tree and shrub crop growers",
+                  "risk": {}
+                },
+                {
+                  "name": "6113 - Gardeners, horticultural and nursery growers",
+                  "risk": {}
+                },
+                {
+                  "name": "6114 - Mixed crop growers",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "612 - Animal producers",
+              "children": [
+                {
+                  "name": "6121 - Livestock and dairy producers",
+                  "risk": {}
+                },
+                {
+                  "name": "6122 - Poultry producers",
+                  "risk": {}
+                },
+                {
+                  "name": "6123 - Apiarists and sericulturists",
+                  "risk": {}
+                },
+                {
+                  "name": "6129 - Animal producers not elsewhere classified",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "613 - Mixed crop and animal producers",
+              "children": [
+                {
+                  "name": "6130 - Mixed crop and animal producers",
+                  "risk": {}
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "62 - Market-oriented skilled forestry, fishery and hunting workers",
+          "children": [
+            {
+              "name": "621 - Forestry and related workers",
+              "children": [
+                {
+                  "name": "6210 - Forestry and related workers",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "622 - Fishery workers, hunters and trappers",
+              "children": [
+                {
+                  "name": "6221 - Aquaculture workers",
+                  "risk": {}
+                },
+                {
+                  "name": "6222 - Inland and coastal waters fishery workers",
+                  "risk": {}
+                },
+                {
+                  "name": "6223 - Deep-sea fishery workers",
+                  "risk": {}
+                },
+                {
+                  "name": "6224 - Hunters and trappers",
+                  "risk": {}
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "63 - Subsistence farmers, fishers, hunters and gatherers",
+          "children": [
+            {
+              "name": "631 - Subsistence crop farmers",
+              "children": [
+                {
+                  "name": "6310 - Subsistence crop farmers",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "632 - Subsistence livestock farmers",
+              "children": [
+                {
+                  "name": "6320 - Subsistence livestock farmers",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "633 - Subsistence mixed crop and livestock farmers",
+              "children": [
+                {
+                  "name": "6330 - Subsistence mixed crop and livestock farmers",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "634 - Subsistence fishers, hunters, trappers and gatherers",
+              "children": [
+                {
+                  "name": "6340 - Subsistence fishers, hunters, trappers and gatherers",
+                  "risk": {}
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "7 - Craft and related trades workers",
+      "children": [
+        {
+          "name": "71 - Building and related trades workers, excluding electricians",
+          "children": [
+            {
+              "name": "711 - Building frame and related trades workers",
+              "children": [
+                {
+                  "name": "7111 - House builders",
+                  "risk": {}
+                },
+                {
+                  "name": "7112 - Bricklayers and related workers",
+                  "risk": {}
+                },
+                {
+                  "name": "7113 - Stonemasons, stone cutters, splitters and carvers",
+                  "risk": {}
+                },
+                {
+                  "name": "7114 - Concrete placers, concrete finishers and related workers",
+                  "risk": {}
+                },
+                {
+                  "name": "7115 - Carpenters and joiners",
+                  "risk": {}
+                },
+                {
+                  "name": "7119 - Building frame and related trades workers not elsewhere classified",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "712 - Building finishers and related trades workers",
+              "children": [
+                {
+                  "name": "7121 - Roofers",
+                  "risk": {}
+                },
+                {
+                  "name": "7122 - Floor layers and tile setters",
+                  "risk": {}
+                },
+                {
+                  "name": "7123 - Plasterers",
+                  "risk": {}
+                },
+                {
+                  "name": "7124 - Insulation workers",
+                  "risk": {}
+                },
+                {
+                  "name": "7125 - Glaziers",
+                  "risk": {}
+                },
+                {
+                  "name": "7126 - Plumbers and pipe fitters",
+                  "risk": {}
+                },
+                {
+                  "name": "7127 - Air conditioning and refrigeration mechanics",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "713 - Painters, building structure cleaners and related trades workers",
+              "children": [
+                {
+                  "name": "7131 - Painters and related workers",
+                  "risk": {}
+                },
+                {
+                  "name": "7132 - Spray painters and varnishers",
+                  "risk": {}
+                },
+                {
+                  "name": "7133 - Building structure cleaners",
+                  "risk": {}
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "72 - Metal, machinery and related trades workers",
+          "children": [
+            {
+              "name": "721 - Sheet and structural metal workers, moulders and welders, and related workers",
+              "children": [
+                {
+                  "name": "7211 - Metal moulders and coremakers",
+                  "risk": {}
+                },
+                {
+                  "name": "7212 - Welders and flamecutters",
+                  "risk": {}
+                },
+                {
+                  "name": "7213 - Sheet-metal workers",
+                  "risk": {}
+                },
+                {
+                  "name": "7214 - Structural-metal preparers and erectors",
+                  "risk": {}
+                },
+                {
+                  "name": "7215 - Riggers and cable splicers",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "722 - Blacksmiths, toolmakers and related trades workers",
+              "children": [
+                {
+                  "name": "7221 - Blacksmiths, hammersmiths and forging press workers",
+                  "risk": {}
+                },
+                {
+                  "name": "7222 - Toolmakers and related workers",
+                  "risk": {}
+                },
+                {
+                  "name": "7223 - Metal working machine tool setters and operators",
+                  "risk": {}
+                },
+                {
+                  "name": "7224 - Metal polishers, wheel grinders and tool sharpeners",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "723 - Machinery mechanics and repairers",
+              "children": [
+                {
+                  "name": "7231 - Motor vehicle mechanics and repairers",
+                  "risk": {}
+                },
+                {
+                  "name": "7232 - Aircraft engine mechanics and repairers",
+                  "risk": {}
+                },
+                {
+                  "name": "7233 - Agricultural and industrial machinery mechanics and repairers",
+                  "risk": {}
+                },
+                {
+                  "name": "7234 - Bicycle and related repairers",
+                  "risk": {}
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "73 - Handicraft and printing workers",
+          "children": [
+            {
+              "name": "731 - Handicraft workers",
+              "children": [
+                {
+                  "name": "7311 - Precision-instrument makers and repairers",
+                  "risk": {}
+                },
+                {
+                  "name": "7312 - Musical instrument makers and tuners",
+                  "risk": {}
+                },
+                {
+                  "name": "7313 - Jewellery and precious-metal workers",
+                  "risk": {}
+                },
+                {
+                  "name": "7314 - Potters and related workers",
+                  "risk": {}
+                },
+                {
+                  "name": "7315 - Glass makers, cutters, grinders and finishers",
+                  "risk": {}
+                },
+                {
+                  "name": "7316 - Sign writers, decorative painters, engravers and etchers",
+                  "risk": {}
+                },
+                {
+                  "name": "7317 - Handicraft workers in wood, basketry and related materials",
+                  "risk": {}
+                },
+                {
+                  "name": "7318 - Handicraft workers in textile, leather and related materials",
+                  "risk": {}
+                },
+                {
+                  "name": "7319 - Handicraft workers not elsewhere classified",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "732 - Printing trades workers",
+              "children": [
+                {
+                  "name": "7321 - Pre-press technicians",
+                  "risk": {}
+                },
+                {
+                  "name": "7322 - Printers",
+                  "risk": {}
+                },
+                {
+                  "name": "7323 - Print finishing and binding workers",
+                  "risk": {}
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "74 - Electrical and electronic trades workers",
+          "children": [
+            {
+              "name": "741 - Electrical equipment installers and repairers",
+              "children": [
+                {
+                  "name": "7411 - Building and related electricians",
+                  "risk": {}
+                },
+                {
+                  "name": "7412 - Electrical mechanics and fitters",
+                  "risk": {}
+                },
+                {
+                  "name": "7413 - Electrical line installers and repairers",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "742 - Electronics and telecommunications installers and repairers",
+              "children": [
+                {
+                  "name": "7421 - Electronics mechanics and servicers",
+                  "risk": {}
+                },
+                {
+                  "name": "7422 - Information and communications technology installers and servicers",
+                  "risk": {}
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "75 - Food processing, wood working, garment and other craft and related trades workers",
+          "children": [
+            {
+              "name": "751 - Food processing and related trades workers",
+              "children": [
+                {
+                  "name": "7511 - Butchers, fishmongers and related food preparers",
+                  "risk": {}
+                },
+                {
+                  "name": "7512 - Bakers, pastry-cooks and confectionery makers",
+                  "risk": {}
+                },
+                {
+                  "name": "7513 - Dairy-products makers",
+                  "risk": {}
+                },
+                {
+                  "name": "7514 - Fruit, vegetable and related preservers",
+                  "risk": {}
+                },
+                {
+                  "name": "7515 - Food and beverage tasters and graders",
+                  "risk": {}
+                },
+                {
+                  "name": "7516 - Tobacco preparers and tobacco products makers",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "752 - Wood treaters, cabinet-makers and related trades workers",
+              "children": [
+                {
+                  "name": "7521 - Wood treaters",
+                  "risk": {}
+                },
+                {
+                  "name": "7522 - Cabinet-makers and related workers",
+                  "risk": {}
+                },
+                {
+                  "name": "7523 - Woodworking-machine tool setters and operators",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "753 - Garment and related trades workers",
+              "children": [
+                {
+                  "name": "7531 - Tailors, dressmakers, furriers and hatters",
+                  "risk": {}
+                },
+                {
+                  "name": "7532 - Garment and related pattern-makers and cutters",
+                  "risk": {}
+                },
+                {
+                  "name": "7533 - Sewing, embroidery and related workers",
+                  "risk": {}
+                },
+                {
+                  "name": "7534 - Upholsterers and related workers",
+                  "risk": {}
+                },
+                {
+                  "name": "7535 - Pelt dressers, tanners and fellmongers",
+                  "risk": {}
+                },
+                {
+                  "name": "7536 - Shoemakers and related workers",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "754 - Other craft and related workers",
+              "children": [
+                {
+                  "name": "7541 - Underwater divers",
+                  "risk": {}
+                },
+                {
+                  "name": "7542 - Shotfirers and blasters",
+                  "risk": {}
+                },
+                {
+                  "name": "7543 - Product graders and testers (excluding foods and beverages)",
+                  "risk": {}
+                },
+                {
+                  "name": "7544 - Fumigators and other pest and weed controllers",
+                  "risk": {}
+                },
+                {
+                  "name": "7549 - Craft and related workers not elsewhere classified",
+                  "risk": {}
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "8 - Plant and machine operators, and assemblers",
+      "children": [
+        {
+          "name": "81 - Stationary plant and machine operators",
+          "children": [
+            {
+              "name": "811 - Mining and mineral processing plant operators",
+              "children": [
+                {
+                  "name": "8111 - Miners and quarriers",
+                  "risk": {}
+                },
+                {
+                  "name": "8112 - Mineral and stone processing plant operators",
+                  "risk": {}
+                },
+                {
+                  "name": "8113 - Well drillers and borers and related workers",
+                  "risk": {}
+                },
+                {
+                  "name": "8114 - Cement, stone and other mineral products machine operators",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "812 - Metal processing and finishing plant operators",
+              "children": [
+                {
+                  "name": "8121 - Metal processing plant operators",
+                  "risk": {}
+                },
+                {
+                  "name": "8122 - Metal finishing, plating and coating machine operators",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "813 - Chemical and photographic products plant and machine operators",
+              "children": [
+                {
+                  "name": "8131 - Chemical products plant and machine operators",
+                  "risk": {}
+                },
+                {
+                  "name": "8132 - Photographic products machine operators",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "814 - Rubber, plastic and paper products machine operators",
+              "children": [
+                {
+                  "name": "8141 - Rubber products machine operators",
+                  "risk": {}
+                },
+                {
+                  "name": "8142 - Plastic products machine operators",
+                  "risk": {}
+                },
+                {
+                  "name": "8143 - Paper products machine operators",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "815 - Textile, fur and leather products machine operators",
+              "children": [
+                {
+                  "name": "8151 - Fibre preparing, spinning and winding machine operators",
+                  "risk": {}
+                },
+                {
+                  "name": "8152 - Weaving and knitting machine operators",
+                  "risk": {}
+                },
+                {
+                  "name": "8153 - Sewing machine operators",
+                  "risk": {}
+                },
+                {
+                  "name": "8154 - Bleaching, dyeing and fabric cleaning machine operators",
+                  "risk": {}
+                },
+                {
+                  "name": "8155 - Fur and leather preparing machine operators",
+                  "risk": {}
+                },
+                {
+                  "name": "8156 - Shoemaking and related machine operators",
+                  "risk": {}
+                },
+                {
+                  "name": "8157 - Laundry machine operators",
+                  "risk": {}
+                },
+                {
+                  "name": "8159 - Textile, fur and leather products machine operators not elsewhere classified",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "816 - Food and related products machine operators",
+              "children": [
+                {
+                  "name": "8160 - Food and related products machine operators",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "817 - Wood processing and papermaking plant operators",
+              "children": [
+                {
+                  "name": "8171 - Pulp and papermaking plant operators",
+                  "risk": {}
+                },
+                {
+                  "name": "8172 - Wood processing plant operators",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "818 - Other stationary plant and machine operators",
+              "children": [
+                {
+                  "name": "8181 - Glass and ceramics plant operators",
+                  "risk": {}
+                },
+                {
+                  "name": "8182 - Steam engine and boiler operators",
+                  "risk": {}
+                },
+                {
+                  "name": "8183 - Packing, bottling and labelling machine operators",
+                  "risk": {}
+                },
+                {
+                  "name": "8189 - Stationary plant and machine operators not elsewhere classified",
+                  "risk": {}
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "82 - Assemblers",
+          "children": [
+            {
+              "name": "821 - Assemblers",
+              "children": [
+                {
+                  "name": "8211 - Mechanical machinery assemblers",
+                  "risk": {}
+                },
+                {
+                  "name": "8212 - Electrical and electronic equipment assemblers",
+                  "risk": {}
+                },
+                {
+                  "name": "8219 - Assemblers not elsewhere classified",
+                  "risk": {}
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "83 - Drivers and mobile plant operators",
+          "children": [
+            {
+              "name": "831 - Locomotive engine drivers and related workers",
+              "children": [
+                {
+                  "name": "8311 - Locomotive engine drivers",
+                  "risk": {}
+                },
+                {
+                  "name": "8312 - Railway brake, signal and switch operators",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "832 - Car, van and motorcycle drivers",
+              "children": [
+                {
+                  "name": "8321 - Motorcycle drivers",
+                  "risk": {}
+                },
+                {
+                  "name": "8322 - Car, taxi and van drivers",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "833 - Heavy truck and bus drivers",
+              "children": [
+                {
+                  "name": "8331 - Bus and tram drivers",
+                  "risk": {}
+                },
+                {
+                  "name": "8332 - Heavy truck and lorry drivers",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "834 - Mobile plant operators",
+              "children": [
+                {
+                  "name": "8341 - Mobile farm and forestry plant operators",
+                  "risk": {}
+                },
+                {
+                  "name": "8342 - Earthmoving and related plant operators",
+                  "risk": {}
+                },
+                {
+                  "name": "8343 - Crane, hoist and related plant operators",
+                  "risk": {}
+                },
+                {
+                  "name": "8344 - Lifting truck operators",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "835 - Ships' deck crews and related workers",
+              "children": [
+                {
+                  "name": "8350 - Ships' deck crews and related workers",
+                  "risk": {}
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "9 - Elementary occupations",
+      "children": [
+        {
+          "name": "91 - Cleaners and helpers",
+          "children": [
+            {
+              "name": "911 - Domestic, hotel and office cleaners and helpers",
+              "children": [
+                {
+                  "name": "9111 - Domestic cleaners and helpers",
+                  "risk": {}
+                },
+                {
+                  "name": "9112 - Cleaners and helpers in offices, hotels and other establishments",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "912 - Vehicle, window, laundry and other hand cleaning workers",
+              "children": [
+                {
+                  "name": "9121 - Hand launderers and pressers",
+                  "risk": {}
+                },
+                {
+                  "name": "9122 - Vehicle cleaners",
+                  "risk": {}
+                },
+                {
+                  "name": "9123 - Window cleaners",
+                  "risk": {}
+                },
+                {
+                  "name": "9129 - Other cleaning workers",
+                  "risk": {}
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "92 - Agricultural, forestry and fishery labourers",
+          "children": [
+            {
+              "name": "921 - Agricultural, forestry and fishery labourers",
+              "children": [
+                {
+                  "name": "9211 - Crop farm labourers",
+                  "risk": {}
+                },
+                {
+                  "name": "9212 - Livestock farm labourers",
+                  "risk": {}
+                },
+                {
+                  "name": "9213 - Mixed crop and livestock farm labourers",
+                  "risk": {}
+                },
+                {
+                  "name": "9214 - Garden and horticultural labourers",
+                  "risk": {}
+                },
+                {
+                  "name": "9215 - Forestry labourers",
+                  "risk": {}
+                },
+                {
+                  "name": "9216 - Fishery and aquaculture labourers",
+                  "risk": {}
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "93 - Labourers in mining, construction, manufacturing and transport",
+          "children": [
+            {
+              "name": "931 - Mining and construction labourers",
+              "children": [
+                {
+                  "name": "9311 - Mining and quarrying labourers",
+                  "risk": {}
+                },
+                {
+                  "name": "9312 - Civil engineering labourers",
+                  "risk": {}
+                },
+                {
+                  "name": "9313 - Building construction labourers",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "932 - Manufacturing labourers",
+              "children": [
+                {
+                  "name": "9321 - Hand packers",
+                  "risk": {}
+                },
+                {
+                  "name": "9329 - Manufacturing labourers not elsewhere classified",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "933 - Transport and storage labourers",
+              "children": [
+                {
+                  "name": "9331 - Hand and pedal vehicle drivers",
+                  "risk": {}
+                },
+                {
+                  "name": "9332 - Drivers of animal-drawn vehicles and machinery",
+                  "risk": {}
+                },
+                {
+                  "name": "9333 - Freight handlers",
+                  "risk": {}
+                },
+                {
+                  "name": "9334 - Shelf fillers",
+                  "risk": {}
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "94 - Food preparation assistants",
+          "children": [
+            {
+              "name": "941 - Food preparation assistants",
+              "children": [
+                {
+                  "name": "9411 - Fast food preparers",
+                  "risk": {}
+                },
+                {
+                  "name": "9412 - Kitchen helpers",
+                  "risk": {}
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "95 - Street and related sales and service workers",
+          "children": [
+            {
+              "name": "951 - Street and related service workers",
+              "children": [
+                {
+                  "name": "9510 - Street and related service workers",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "952 - Street vendors (excluding food)",
+              "children": [
+                {
+                  "name": "9520 - Street vendors (excluding food)",
+                  "risk": {}
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "96 - Refuse workers and other elementary workers",
+          "children": [
+            {
+              "name": "961 - Refuse workers",
+              "children": [
+                {
+                  "name": "9611 - Garbage and recycling collectors",
+                  "risk": {}
+                },
+                {
+                  "name": "9612 - Refuse sorters",
+                  "risk": {}
+                },
+                {
+                  "name": "9613 - Sweepers and related labourers",
+                  "risk": {}
+                }
+              ]
+            },
+            {
+              "name": "962 - Other elementary workers",
+              "children": [
+                {
+                  "name": "9621 - Messengers, package deliverers and luggage porters",
+                  "risk": {}
+                },
+                {
+                  "name": "9622 - Odd job persons",
+                  "risk": {}
+                },
+                {
+                  "name": "9623 - Meter readers and vending-machine collectors",
+                  "risk": {}
+                },
+                {
+                  "name": "9624 - Water and firewood collectors",
+                  "risk": {}
+                },
+                {
+                  "name": "9629 - Elementary workers not elsewhere classified",
+                  "risk": {}
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
